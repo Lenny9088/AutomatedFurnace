@@ -65,7 +65,7 @@ electrum:
 move maxPressure 2300
 push 7
 push quantity
-push 3
+push 2
 push quantity
 j startOre
 invar:
